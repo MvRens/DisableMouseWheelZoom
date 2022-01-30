@@ -1,0 +1,1 @@
+I could not find a way to upgrade the project easily. It's very likely my lack of experience with VS extensions, but I'm not sure if it's possible to be compatible with earlier versions at the same time. Either way, I simply created a new project and copied the relevant code over, so this one is just for VS2022.
